@@ -1,0 +1,12 @@
+.btn {
+    padding: 25px;
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  .active{
+    background-color: #613F93;
+    color: white;
+  }

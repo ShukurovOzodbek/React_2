@@ -1,0 +1,16 @@
+.name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.names {
+    display: flex;
+    flex-direction: column;
+}
+
+.stack {
+    font-size: 14px;
+    color: rgb(190, 190, 190);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
